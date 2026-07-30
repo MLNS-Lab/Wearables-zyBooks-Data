@@ -1,0 +1,139 @@
+subjectId,computerTime,animationId,caption,complete,event,doubleSpeed
+001,21:03:37.021000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+001,21:03:37.888000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,True
+001,21:03:43.927000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,True
+001,21:03:48.724000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,True
+001,21:03:55.311000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,True
+001,21:04:01.925000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+001,21:08:14.844000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+001,21:08:15.248000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,True
+001,21:08:21.726000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,True
+001,21:08:25.345000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Pause button clicked.,True
+001,21:08:26.801000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked.,True
+001,21:08:29.766000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,True
+001,21:08:38.234000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+001,21:09:33.987000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+001,21:09:34.419000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,True
+001,21:09:38.633000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,True
+001,21:09:45.149000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,True
+001,21:09:51.845000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+002,21:55:22.579000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+002,21:55:23.071000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,True
+002,21:55:26.821000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,True
+002,21:55:34.253000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,True
+002,21:55:39.006000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,step 4 clicked.,True
+002,21:55:45.599000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+002,21:59:45.877000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+002,21:59:46.618000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,True
+002,21:59:49.870000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,True
+002,21:59:54.470000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,True
+002,22:00:02.947000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+002,22:01:36.489000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+002,22:01:37.032000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,True
+002,22:01:41.684000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,True
+002,22:01:46.632000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,True
+002,22:01:53.310000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+007,19:37:49.054000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+007,19:37:49.749000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,True
+007,19:37:57.108000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,True
+007,19:38:05.364000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,True
+007,19:38:14.836000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,True
+007,19:38:21.455000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+007,19:41:21.895000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,False
+007,19:41:22.841000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+007,19:41:27.004000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,True
+007,19:41:33.323000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,True
+007,19:41:41.805000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+007,19:42:05.618000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+007,19:42:06.546000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,True
+007,19:42:13.113000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,True
+007,19:42:19.764000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,True
+007,19:42:26.438000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+111,18:17:06.500000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,False
+111,18:17:11.500000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,False
+111,18:17:20.500000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,False
+111,18:17:34.500000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,False
+111,18:17:46.500000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,False
+111,18:23:18.500000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,False
+111,18:23:23.500000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,False
+111,18:23:35.500000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,False
+111,18:23:51.500000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,False
+111,18:25:52.500000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,False
+111,18:26:03.500000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,False
+111,18:26:19.500000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,False
+111,18:26:31.500000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,False
+178,02:13:01.622000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,False
+178,02:13:09.979000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,False
+178,02:13:42.585000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,False
+178,02:13:53.598000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,False
+178,02:14:05.625000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,False
+178,02:22:05.864000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,False
+178,02:22:16.932000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,False
+178,02:22:25.055000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,False
+178,02:22:40.785000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,False
+178,02:23:51.820000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,False
+178,02:23:58.477000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,False
+178,02:24:12.707000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,False
+178,02:24:24.886000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,False
+2003,16:10:48.957000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,False
+2003,16:10:55.918000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,False
+2003,16:11:03.951000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,False
+2003,16:11:04.331000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+2003,16:11:11.505000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,True
+2003,16:11:18.097000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+2003,16:16:55.902000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,False
+2003,16:16:59.454000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+2003,16:17:00.698000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,True
+2003,16:17:05.706000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,True
+2003,16:17:14.189000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+2003,16:18:25.514000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,False
+2003,16:18:31.040000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,False
+2003,16:18:31.380000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+2003,16:18:36.455000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,True
+2003,16:18:43.142000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+343,19:32:45.028000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+343,19:32:45.434000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,True
+343,19:32:56.693000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,step 2 clicked.,True
+343,19:33:09.334000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,step 3 clicked.,True
+343,19:33:21.158000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,step 4 clicked.,True
+343,19:33:27.758000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+343,19:36:23.586000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+343,19:36:23.986000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,True
+343,19:36:30.974000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,step 2 clicked.,True
+343,19:36:36.762000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,step 3 clicked.,True
+343,19:36:45.240000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+343,19:37:26.153000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+343,19:37:27.654000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,True
+343,19:37:35.077000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,step 1 clicked.,True
+343,19:37:38.391000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,step 2 clicked.,True
+343,19:37:53.947000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,step 3 clicked.,True
+343,19:38:00.631000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+873,18:02:57.136000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+873,18:02:57.737000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,True
+873,18:03:05.064000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,True
+873,18:03:09.921000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,True
+873,18:03:16.235000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,True
+873,18:03:22.823000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,True
+873,18:06:17.637000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,2x speed clicked. Execution speed now: 2,True
+873,18:06:18.046000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,True
+873,18:06:21.851000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 2 started.,True
+873,18:06:29.297000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,Play button clicked. Step 3 started.,True
+873,18:06:37.775000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,True
+873,18:07:39.118000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,2x speed clicked. Execution speed now: 2,True
+873,18:07:39.659000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,True
+873,18:07:43.388000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,True
+873,18:07:49.641000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,True
+873,18:07:56.316000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,True
+899,22:39:19.366000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,start clicked.,False
+899,22:39:26.171000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 2 started.,False
+899,22:39:37.407000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 3 started.,False
+899,22:39:47.145000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,0,Play button clicked. Step 4 started.,False
+899,22:39:59.210000+00:00,69312631,Pressure-temperature (P-T) phase diagram.,1,animation completely watched,False
+899,22:49:06.102000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,start clicked.,False
+899,22:49:14.180000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,step 2 clicked.,False
+899,22:49:22.405000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",0,step 3 clicked.,False
+899,22:49:38.129000+00:00,69312638,"Liquid, gas, and saturated phases on a P-T phase diagram.",1,animation completely watched,False
+899,22:50:50.500000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,start clicked.,False
+899,22:50:57.186000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 2 started.,False
+899,22:51:05.065000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,0,Play button clicked. Step 3 started.,False
+899,22:51:17.246000+00:00,69312641,Pressure-specific volume (P-v) phase diagram.,1,animation completely watched,False
